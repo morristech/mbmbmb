@@ -1,7 +1,7 @@
-package android.arch.lifecycle;
+package android.arch.lifecycle.extensions;
 
 public final class BuildConfig {
-    public static final String APPLICATION_ID = "android.arch.lifecycle";
+    public static final String APPLICATION_ID = "android.arch.lifecycle.extensions";
     public static final String BUILD_TYPE = "release";
     public static final boolean DEBUG = false;
     public static final String FLAVOR = "";
