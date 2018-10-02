@@ -1,7 +1,7 @@
-package android.arch.core;
+package android.arch.lifecycle;
 
 public final class BuildConfig {
-    public static final String APPLICATION_ID = "android.arch.core";
+    public static final String APPLICATION_ID = "android.arch.lifecycle";
     public static final String BUILD_TYPE = "release";
     public static final boolean DEBUG = false;
     public static final String FLAVOR = "";
